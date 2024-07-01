@@ -36,4 +36,4 @@ This project focuses on processing real-time change data capture (CDC) from sale
 
 ## Congratulations!
 
-We have successfully completed the setup and processing of real-time CDC data for sales orders, enabling seamless querying and analysis of the processed data. Reach out to me if you face any issues during you setup "https://www.linkedin.com/in/sai-varun-kumar-namburi/"
+We have successfully completed the setup and processing of real-time CDC data for sales orders, enabling seamless querying and analysis of the processed data. Reach out to me if you face any issues during you setup "https://www.linkedin.com/in/saivarunkumar/"
